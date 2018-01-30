@@ -1,0 +1,34 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.orig
+*.bak
+target/
+*.classpath
+*.project
+*.prefs
+bin/
+.classpath
+.project
+.settings/
+SCMDefaultFile.out
+TEST_MOD_RES_17
+ebay.log
+logs-L-AUN-00536365/
+temp_persist_config_007.xml
+test-output/
+*~
+.idea/
+*.iml
+*.DS_Store
+*.swp
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
